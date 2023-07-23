@@ -3,9 +3,9 @@
 
 # GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yunusevgane&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arzusevgane&theme=gruvbox&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusevgane&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arzusevgane&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 
@@ -19,7 +19,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yunusevgane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yunusevgane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunusevgane) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yunusevgane) 
 
 
-[![](https://gtce.itsvg.in/api?username=yunusevgane)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=arzusevgane)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yunusevgane&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arzusevgane&icon=0&color=0)](https://visitcount.itsvg.in)
